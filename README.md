@@ -56,3 +56,17 @@
 
 # create make file
 `touch MakeFile`
+
+# commit
+
+`rm -rf Python-3.13`
+
+`git status`
+
+`git add README.md`
+
+`git add *`
+
+`git commit -m "adding skeleton"`
+
+`git push`
